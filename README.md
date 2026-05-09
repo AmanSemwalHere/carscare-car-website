@@ -30,13 +30,13 @@ CarsCare is a responsive car website developed using HTML, CSS and JavaScript. T
 ![Homepage](Images/Page-screenshots/Screenshot8.png)
 ![Homepage](Images/Page-screenshots/Screenshot9.png)
 
-##Responsive Design Preview
+## Responsive Design Preview
 ![Homepage](Images/Page-screenshots/Screenshot_res1.png)
 ![Homepage](Images/Page-screenshots/Screenshot_res2.png)
 ![Homepage](Images/Page-screenshots/Screenshot_res3.png)
 
 ## Note
-The template for this webapge is used from an online website.
+The template for this webpage is used from an online website.
 
 ## Author
 Aman Semwal
